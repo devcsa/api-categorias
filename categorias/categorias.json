@@ -1,0 +1,49 @@
+{
+   "data": [
+      {
+         "id": "DGMrRhdwPkkOYXBe",
+         "name": "Ceras",
+         "active": true
+      },
+      {
+         "id": "DGMoRRdwPUoOYXNe",
+         "name": "Prótese",
+         "active": true
+      },
+      {
+         "id": "DGMpRBdwPEsOYXJe",
+         "name": "Cimentos",
+         "active": true
+      },
+      {
+         "id": "DGMuQxdwO0wOYXVe",
+         "name": "Endodontia",
+         "active": true
+      },
+      {
+         "id": "DGMvQhdwOk0OYXRe",
+         "name": "Dentística e estética",
+         "active": true
+      },
+      {
+         "id": "DGMsQRdwOU4OYXde",
+         "name": "Moldagem",
+         "active": true
+      },
+      {
+         "id": "DGMtQBdwOE8OYXZe",
+         "name": "Ortodontia",
+         "active": true
+      },
+      {
+         "id": "DGMiTxdwN0AOYXle",
+         "name": "Polimento",
+         "active": true
+      },
+      {
+         "id": "DGMjThdwNkEOYXhe",
+         "name": "Acessórios",
+         "active": true
+      }
+   ]
+}
